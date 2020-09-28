@@ -1,5 +1,5 @@
 # Coursera_Capstone
-This is a project to predict seeverity of an accident for the Applied Data Science Capstone course on Coursera.
+This is a project to predict severity of an accident for the Applied Data Science Capstone course on Coursera.
 
 The data used is found in the Data-Collisions.csv file.
 
